@@ -1,0 +1,30 @@
+{
+  "name": "projetocrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNamori/ProjetoCRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNamori/ProjetoCRUD/issues"
+  },
+  "homepage": "https://github.com/TheNamori/ProjetoCRUD#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "mongodb": "^3.5.8",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2"
+  }
+}
